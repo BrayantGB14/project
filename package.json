@@ -11,7 +11,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "git-branch-is -r \"^((?!master).)*$\" || (npm run test)"
+      "pre-commit": "npm run test"
     }
   },
   "private": true,
@@ -24,6 +24,7 @@
     "@angular/platform-browser": "~11.2.0",
     "@angular/platform-browser-dynamic": "~11.2.0",
     "@angular/router": "~11.2.0",
+    "git-branch-is": "^4.0.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
