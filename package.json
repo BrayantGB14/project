@@ -4,8 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "prebuild1": "npm run test",
-    "postbuild": "npm run test",
+    "prebuild1": "run test",
     "build": "ng build",
     "test": "ng test --watch=false --sourceMap=false",
     "lint": "ng lint",
