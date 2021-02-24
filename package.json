@@ -9,7 +9,7 @@
     "test": "ng test --watch=false --sourceMap=false",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "release": "standard-version"
+    "release": "bin/cli.js"
   },
   "husky": {
     "hooks": {
