@@ -1,6 +1,6 @@
 {
   "name": "proyect",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,7 +9,7 @@
     "test": "ng test --watch=false --sourceMap=false",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "release": "bin/cli.js"
+    "release": "standard-version"
   },
   "husky": {
     "hooks": {
