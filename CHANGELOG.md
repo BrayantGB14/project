@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.11](///compare/v0.0.10...v0.0.11) (2021-02-24)
+
+
+### Features
+
+* **test:** add fix e13a391
+
 ### [0.0.10](///compare/v0.0.9...v0.0.10) (2021-02-24)
 
 ### [0.0.9](///compare/v0.0.7...v0.0.9) (2021-02-24)
