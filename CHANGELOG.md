@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.9](///compare/v0.0.7...v0.0.9) (2021-02-24)
+
+
+### Features
+
+* **scope:** commit e91fd1f
+* **scope:** commit BREAKING CHANGE:test 3cd2cd0
+
+### [0.0.8](///compare/v0.0.7...v0.0.8) (2021-02-24)
+
+
+### Features
+
+* **scope:** commit e91fd1f
+* **scope:** commit BREAKING CHANGE:test 3cd2cd0
+
 ### [0.0.7](///compare/v0.0.6...v0.0.7) (2021-02-24)
 
 
